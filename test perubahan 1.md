@@ -1,5 +1,3 @@
-#Ruletheworld
-
 Sometimes you want numbered lists:
 
 1. One
